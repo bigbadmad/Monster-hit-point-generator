@@ -1,1 +1,1 @@
-alert("hey babes");
+.show {display:block;}
